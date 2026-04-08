@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Tran Viet Dang Quang</h1>
+<h3 align="center">A passionate full-stack developer from Vietnam</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on [VNExos Raphael](https://github.com/vnexos/raphael)<br>🌱 I’m currently learning **Spring Boot, Angular, ReactJS, ASP.NET**<br>📫 How to reach me **tranvietdangquang@gmail.com**
 
