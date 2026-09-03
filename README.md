@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Vietnam</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [VNExos Apeiron](https://github.com/vnexos/Apeiron)<br>
+🔭 I’m currently working on [VNExos Apeiron](https://github.com/vnexos/Apeiron) and [VNExos Boreas](https://github.com/vnexos/Boreas)<br>
 🌱 I’m currently learning **Spring Boot, Angular, ReactJS, ASP.NET, C++, Assembly**<br>
 📫 How to reach me **tranvietdangquang@gmail.com**
 
